@@ -1,0 +1,17 @@
+node_modules
+dist
+build
+
+.vscode
+.idea
+
+result
+
+package-lock.json
+# src/renderer/public/*
+
+# Custom
+# *.exe
+temp
+guest_server/winboat_guest_server.exe
+guest_server/winboat_guest_server.zip
